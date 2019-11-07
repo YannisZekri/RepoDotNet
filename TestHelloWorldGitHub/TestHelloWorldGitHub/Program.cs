@@ -10,7 +10,7 @@ namespace TestHelloWorldGitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World 2!");
+            Console.WriteLine("Hello World j'aime le veau!");
             while (true)
             {
                 args = args;
